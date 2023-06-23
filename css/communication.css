@@ -1,0 +1,84 @@
+#right-box .begin img{
+	width: 100%;
+	height: 300px;
+	border-radius: 10px;
+}
+
+#right-box .com1 {
+	text-align: center;
+}
+
+#right-box .com1 p{
+	font-size: 40px;
+	margin: 20px;
+	
+	border-bottom : 1px solid;
+	padding-bottom : 0.5em;
+}
+
+#right-box .com1 span {
+	font-size: 20px;
+	color: blue;
+}
+
+#right-box .com1 .box1 {
+	
+}
+
+#right-box .com1 .box1 table {
+	width: 90%;
+	height: 600px;
+	margin: 30px auto;
+	/*margin-left: 65px;*/
+	font-size: 30px;
+	text-align: center;
+}
+
+#right-box .com1 .box1 thead {
+	background: lightgray;
+}
+
+#right-box .com1 .box1 tbody tr:nth-child(2n){
+	background: lightgray;
+}
+
+#right-box .com2 {
+	text-align: center;
+}
+
+#right-box .com2 p{
+	font-size: 40px;
+	margin: 20px;
+	
+	border-bottom : 1px solid;
+	padding-bottom : 0.5em;
+}
+
+#right-box .com2 .box2 {
+	width: 500px;
+	height: 500px;
+	font-size: 20px;
+	margin: 0 auto;
+}
+
+#right-box .com2 .box2 ul {
+	
+}
+
+#right-box .com2 .box2 ul li{
+	text-align: left;
+	line-height: 50px;
+}
+
+#right-box .com2 .box2 fieldset {
+	border: 0;
+	border-top: 1px solid;
+}
+
+#right-box .com2 .box2 .sub {
+	font-weight: 600;
+	margin-left: 420px;
+	width: 80px;
+	height: 40px;
+	
+}
